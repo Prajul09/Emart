@@ -62,7 +62,7 @@ This project is a simple e-commerce product listing web application built using 
 
 ## Usage::::
 
-1. Clone the repository: `git clone https://github.com/Prajul09`
+1. Clone the repository: `git clone https://github.com/Prajul09/Emart/`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Open the application in your browser at `http://localhost:3000`
